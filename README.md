@@ -1,5 +1,11 @@
 # Snap Story
 
+## Demo video of the overall application
+
+![snapstoryprojectpic](https://github.com/user-attachments/assets/434b32c8-72b7-46a9-83ab-2cd6b6e42384)
+
+https://www.youtube.com/shorts/ByOS_1Es0ZA
+
 ## Introduction
 
 Snap Story is a mobile application that creates imaginative short stories from images. With Snap Story, you can simply take or select a photo, and the app will analyze it to generate an engaging story based on the image. The app uses the power of Google Gemini's image analysis to interpret the content of the photo and produce a creative short story, making it a fun tool for storytelling and creativity.
